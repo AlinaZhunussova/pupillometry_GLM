@@ -1,4 +1,4 @@
-# EM task – pupil GLM
+# Pupil GLM
 
 MATLAB analysis of pupil dilation (PD) during an emotional memory (EM) task,
 comparing three groups: younger adults (YAs), older adults (OAs), and patients
